@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ex1{
+    font-size: 40px;
+    color: rgb(175, 36, 36);
+
+}
+.titulo-blog{
+    font-size: 50px;
+    color: rgb(3, 255, 217);
+}
+.urgente{
+    color: red;
+    padding: 5px;
+    border: solid 3px black;
+    margin: 10px 400px;
+    text-align: center;
+}
