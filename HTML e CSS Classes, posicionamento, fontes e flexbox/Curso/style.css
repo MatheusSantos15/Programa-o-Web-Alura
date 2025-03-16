@@ -15,3 +15,7 @@ img{
 .featured-title{
     color: #B8932B;
 }
+.presentation{
+    display: flex;
+    align-items: center;
+}
