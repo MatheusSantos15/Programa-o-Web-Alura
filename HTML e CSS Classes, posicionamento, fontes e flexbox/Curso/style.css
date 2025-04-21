@@ -16,6 +16,17 @@ img{
     color: #B8932B;
 }
 .presentation{
+    margin: 10%;
     display: flex;
     align-items: center;
+    justify-content: space-between;
+}
+.presentation__content{
+    width: 615px;
+}
+.presentation__content__title{
+    font-size: 36px;
+}
+.presentation__content__text{
+    font-size: 24px;
 }
